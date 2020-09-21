@@ -12,8 +12,7 @@ Giraffen haben lange Hälse
 <p>Wie cool findest du Rafo?:</p>
 
 <div>
-  <input type="checkbox" id="scales" name="scales"
-         checked>
+  <input type="checkbox" id="scales" name="scales">
   <label for="scales">GeilMcSuperHammer</label>
 </div>
 
