@@ -6,15 +6,15 @@ Dies ist nur ein Test !
 
 Giraffen haben lange Hälse
 
-<p>Choose your monster's features:</p>
+<p>Wie cool findest du Rafo?:</p>
 
 <div>
   <input type="checkbox" id="scales" name="scales"
          checked>
-  <label for="scales">Scales</label>
+  <label for="scales">GeilMcSuperHammer</label>
 </div>
 
 <div>
   <input type="checkbox" id="horns" name="horns">
-  <label for="horns">Horns</label>
+  <label for="horns">SuperMcHammerGeilCool</label>
 </div>
