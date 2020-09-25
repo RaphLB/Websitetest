@@ -1,6 +1,4 @@
-<style>
-  body{ background-image: url('http://www.hintergrundbilder-pc.de/hintergrundbilder-woelfe-04-bilder/bilder-480x280/woelfe-072.jpg');}
-  </style>
+
 
 ## Rafos Website
 
